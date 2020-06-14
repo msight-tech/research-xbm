@@ -1,0 +1,31 @@
+resource
+build
+runs
+*.pyc
+*.zip
+*/__pycache__
+__pycache__
+\*.log
+
+# Package Files #
+*.pkl
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.egg-info
+
+#some local files
+*/.settings/
+*/.DS_Store
+.DS_Store
+*/.idea/
+.idea/
+gradlew
+gradlew.bat
+unused.txt
+output/
+*.egg-info/
