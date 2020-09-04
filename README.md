@@ -30,7 +30,7 @@ CUDA_VISIBLE_DEVICES=0 python3 tools/train_net.py --cfg configs/sample_config.ya
 
 For any questions, please feel free to reach 
 ```
-github@malong.com
+github@malongtech.com
 ```
 
 ### Citation
@@ -53,4 +53,4 @@ github@malong.com
 
 ## License
 
-XBM is CC-BY-NC 4.0 licensed, as found in the [LICENSE](LICENSE) file. It is released for academic research / non-commercial use only. If you wish to use for commercial purposes, please contact bd@malong.com.
+XBM is CC-BY-NC 4.0 licensed, as found in the [LICENSE](LICENSE) file. It is released for academic research / non-commercial use only. If you wish to use for commercial purposes, please contact bd@malongtech.com.
