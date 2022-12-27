@@ -1,6 +1,6 @@
 torch==1.4.0
 numpy
 yacs
-setuptools==40.6.2
+setuptools==65.5.1
 Pillow
 torchvision==0.4.2
